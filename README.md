@@ -1,20 +1,33 @@
-# Hi there! 👋
+# Hello, I'm Benji! 👋
 
-## GitHub Stats
+## 🛠 Skills
 
-### Profile Summary
+-   HTML
+-   CSS
+-   JavaScript
+-   React
+-   Node.js
+-   SQL
+-   Python
+-   C++
+-   Git
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=bdubtga&show_icons=true&theme=synthwave)
+## 📈 GitHub Stats
 
-### Language Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=[YourUsername]&show_icons=true&theme=synthwave)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bdubtga&layout=compact&theme=synthwave)
+## 🏆 GitHub Trophies
 
-### Contributions
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=[YourUsername]&theme=onedark)
 
-![Yearly Contributions](https://github-readme-streak-stats.herokuapp.com/?user=bdubtga&theme=synthwave)
+## 🗂️ Highlight Projects
 
-### GitHub Trophies
+-   [Project 1](link-to-project)
+-   [Project 2](link-to-project)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bdubtga&theme=onedark)
+## 📫 How to reach me
 
+You can find and get touch with me on these platforms:
+
+-   [Phone](tel:+643788527)
+-   [Email](mailto:benji@benjiwallis.xyz)
