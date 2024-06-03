@@ -14,11 +14,11 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=[YourUsername]&show_icons=true&theme=synthwave)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=[bdubtga]&show_icons=true&theme=synthwave)
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=[YourUsername]&theme=onedark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=[bdubtga]&theme=onedark)
 
 ## 🗂️ Highlight Projects
 
