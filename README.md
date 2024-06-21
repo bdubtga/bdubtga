@@ -14,7 +14,7 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=[bdubtga]&show_icons=true&theme=onedark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=bdubtga&show_icons=true&theme=onedark)
 
 ## 🏆 GitHub Trophies
 
